@@ -1,0 +1,7 @@
+npm init vite pocketchat
+
+cd pocketchat
+npm install
+npm install pocketbase
+
+npm run dev
